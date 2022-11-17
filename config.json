@@ -1,0 +1,17 @@
+{
+    "telegram" : {
+        "token" :"5756061812:AAEmbdEOsQDMYGAAjWlXdWViKC8NapwzPII",
+        "mode_debug" : true
+    },
+    "logger":{
+        "level":"debug"
+    },
+    "postgres":{
+        "host": "localhost",
+        "port":"5432",
+        "user_name":"postgres",
+        "password":"postgres",
+        "db_name":"shops",
+        "ssl_mode":"disable"
+     }
+}
